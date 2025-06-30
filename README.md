@@ -1,4 +1,4 @@
 # Geometria
 calculosGeometria
 
-Exercícios básicos de Geometria.
+Exercícios básicos de Geometria..
